@@ -1,2 +1,2 @@
-# coming-soon-page
+# landing-page
 landing page
